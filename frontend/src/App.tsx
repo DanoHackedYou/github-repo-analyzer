@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Github, Search } from 'lucide-react';
+import { Search } from 'lucide-react';
 import { analyzeRepository } from './services/api';
 import type { AnalyzeResponse } from './types';
 import { ScoreCard } from './components/ScoreCard';
@@ -32,7 +32,7 @@ function App() {
   return (
     <main className="page">
       <section className="hero">
-        <div className="badge"><Github size={18} /> GitHub Portfolio Tool</div>
+        <div className="badge"><span>⌘</span> GitHub Portfolio Tool</div>
         <h1>GitHub Repo Analyzer</h1>
         <p>Analyze repository quality, documentation, project hygiene and improvement opportunities in seconds.</p>
 
