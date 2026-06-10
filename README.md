@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 # GitHub Repo Analyzer
 
 A professional full-stack dashboard that analyzes public GitHub repositories and generates a quality score, project hygiene checklist, language breakdown and improvement recommendations.
 
 ## Screenshot
 
-Add a screenshot here after running the project locally:
+<img width="2841" height="1624" alt="image" src="https://github.com/user-attachments/assets/fa204c25-856c-42d8-b900-603ea724ac3c" />
 
-```md
-![GitHub Repo Analyzer screenshot](docs/screenshot.png)
-```
 
 ## Features
 
