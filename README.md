@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Repo Analyzer
 
 A professional full-stack dashboard that analyzes public GitHub repositories and generates a quality score, project hygiene checklist, language breakdown and improvement recommendations.
@@ -209,3 +210,7 @@ Created as a professional portfolio project.
 ## Status
 
 MVP ready for local execution and GitHub publication.
+=======
+# github-repo-analyzer
+Full-stack dashboard to analyze GitHub repository quality, documentation and project hygiene.
+>>>>>>> d2238071fde1e431ab4a648a75f113a4c5b0411a
